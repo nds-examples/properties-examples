@@ -1,0 +1,5 @@
+common:
+  value: "dave"
+
+file:
+  value: "common"
