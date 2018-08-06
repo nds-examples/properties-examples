@@ -1,5 +1,2 @@
-common:
-  value: "fred"
-
 file:
-  value: "developer"
+  value: "developer-one"
